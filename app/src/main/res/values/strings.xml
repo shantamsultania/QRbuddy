@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Qrapplication</string>
+    <string name="enter_text_here">Enter text here...</string>
+    <string name="generate_qr_code">Generate Qr code</string>
+    <string name="welcome_to_qr_generator">Welcome to QR Generator</string>
+    <string name="image">Image</string>
+    <string name="your_qr_has_been_generated">Your QR has been Generated</string>
+    <string name="back">Back</string>
+    <string name="qr">qr</string>
+    <string name="generate_qr">Generate QR</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="generate_your_qr_here">Generate Your QR Here</string>
+    <string name="result">result</string>
+</resources>
