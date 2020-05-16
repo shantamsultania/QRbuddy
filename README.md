@@ -1,6 +1,6 @@
 # QRbuddy
 
-QR buddy is an Android  application in Kotlin that can be used to generate as well as scan QR codes and send the info to Firebase databse.
+QR buddy is an Android  application in Kotlin that can be used to generate as well as scan QR codes and send the info to Firebase databse.As a part of by 30 days of kotlin program.
 
 
 # Developing Environment 
