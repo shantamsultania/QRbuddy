@@ -84,12 +84,11 @@ gradle version 3.6.0
 android studio 3.6.0
 
 ### Made with ❤️by Shantam Sultania
+
 #### About me
 
-I am an Andriod developer, Actions on Google, Internet of things, Alexa Skills, and Image processing developer.
-I have a keen interest in Image processing and Andriod development.
-I am Currently Campus Representative at Google developers Group Chandigarh, Facebook Developer circle Chandigarh, Github Student developer, and Club Lead at CSE Department Chandigarh University, Punjab.
-
+I am JAVA and Python based application developer, I have won some hackathons as well as a title of Alexa student Infulencer from amazon, Postman Student Expert and more.
+ 
 You can find me at:-
 [Linkedin](https://www.linkedin.com/in/shantam-sultania-737084175/) or [Github](https://github.com/shantamsultania) .
 
